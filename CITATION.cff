@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use EtaDecayer, please cite it as below, together with the physics inputs listed in README.md."
+title: "EtaDecayer: an exclusive eta/eta' decayer for Pythia 8"
+type: software
+authors:
+  - family-names: Lai
+    given-names: Yihui
+  - family-names: Qian
+    given-names: Sitian
+version: "1.0.0"
+date-released: "2026-11-15"
+license: Apache-2.0
+repository-code: "https://github.com/yihui-lai/EtaDecayer"
+abstract: >-
+  A Pythia 8 DecayHandler that decays every eta or eta' in an event into one chosen exclusive final state
+  (mu+ mu-, l+ l- gamma, mu+ mu- e+ e-, 4e, 4mu, pi+ pi- l+ l-, eta pi pi, l+ l- A, pi+ pi- A)
+keywords:
+  - Pythia 8
+  - eta meson
+  - eta prime meson
+  - rare decays
+  - transition form factor
+  - Monte Carlo event generator
